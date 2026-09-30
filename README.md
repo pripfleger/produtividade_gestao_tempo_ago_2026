@@ -300,5 +300,4 @@ Os dados de clientes/alunos exibidos neste projeto (nomes, RAs, telefones e data
 
 ## Autoria
 
-**Priscylla Pfleger** 2026# produtividade_gestao_tempo_ago_2026
-# produtividade_gestao_tempo_ago_2026
+**Priscylla Pfleger** 2026
